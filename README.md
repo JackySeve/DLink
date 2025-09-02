@@ -85,6 +85,6 @@ python app.py
 
 ## 📜 Licencia
 
-Este proyecto está bajo la licencia GPL v3.
+Este proyecto está bajo la licencia MIT.
 
 ---
